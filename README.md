@@ -3,7 +3,7 @@
 This is a movie testing project built with React that uses the [TMDb API](https://www.themoviedb.org/) to fetch movie data. The goal of this project is to learn how to work with external APIs, display dynamic data on the user interface, and create a responsive layout using **Tailwind CSS**.
 
 
-![Home](https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/Screenshot%202024-11-20%20at%2017.37.58.png?alt=media&token=8beb40f1-9c32-4b4c-9788-eb08f8f5d554) 
+![Home](https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/Screenshot%202024-11-20%20at%2017.37.58.png?alt=media&token=4ecb3c90-9768-492a-9208-f6258bcd0e6a) 
 <!-- Example of a local image -->
 ![Details](https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/Screenshot%202024-11-20%20at%2017.27.54.png?alt=media&token=0f3ad131-125a-4346-aae9-fc7e177ae3c4) <!-- Example of a local image -->
 ## Technologies Used
